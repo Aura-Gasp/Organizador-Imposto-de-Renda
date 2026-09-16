@@ -1,19 +1,19 @@
 # Organizador de Declaração de Imposto de Renda
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Ferramenta desenvolvida em Excel para organizar as informações necessárias na hora de declarar o Imposto de Renda. A planilha centraliza dados do titular, informes de rendimento bancário e lançamentos de notas/holerites ao longo do ano, com navegação facilitada entre as telas e validações que reduzem erro de preenchimento.
 
 Projeto desenvolvido como desafio prático do curso **Excel Avançado com IA e Claude** (Santander Open Academy / DIO), com orientação do especialista Felipe Aguiar (Tech Educator, DIO).
 
-## 🎯 Objetivos
+## Objetivos
 
 - Criar uma ferramenta de organização de dados fiscais em Excel
 - Aplicar validação de dados e formatação personalizada para facilitar o preenchimento
 - Construir uma navegação clara entre diferentes telas da planilha
 - Documentar o processo técnico e compartilhar via GitHub
 
-## 🗂️ Estrutura da Planilha
+## Estrutura da Planilha
 
 ### 1. TÍTULAR
 Formulário com os dados pessoais do declarante (nome, CPF, data de nascimento, título de eleitor, endereço, contato), com máscaras de formatação aplicadas a CPF, CEP, telefone e celular, e campos de confirmação (Sim/Não) controlados por lista suspensa.
@@ -39,7 +39,7 @@ Um ícone personalizado (Leão) presente nas três telas funciona como atalho, l
 - **Hyperlinks em imagens**: menu de navegação entre abas usando ícones clicáveis
 - **Gráfico dinâmico**: evolução dos rendimentos mês a mês
 
-## 🚀 Como Usar
+## Como Usar
 
 1. Baixe o arquivo `Organizador_de_Declaração_de_Imposto_de_Renda.xlsx`
 2. Preencha a aba **TÍTULAR** com seus dados pessoais
@@ -47,6 +47,6 @@ Um ícone personalizado (Leão) presente nas três telas funciona como atalho, l
 4. Lance seus rendimentos mensais na aba **NOTAS** conforme o ano avança
 5. Use o ícone do Leão para navegar entre as telas
 
-## 👤 Autora
+## Autora
 
 Aura Gaspar Ribeiro
